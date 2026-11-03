@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+.around{
+    justify-content: space-around;
+}
+
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.gap32{
+    gap: 32px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.color-black{
+    color: #292F36;
+}
+
+.background-section4{
+    background-color: #F4F0EC;
+    border-radius: 10px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero{
+    background-image: url("assets/Banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;       
+    background-position: bottom;
+    border-radius: 0px 0px 0px 291px;
+}
+
+.image-article{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;       
+    background-position: bottom;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.contenu-hero{
+    color: #292F36;
+    padding-top: 100px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.bouton-black{
+    font-family: "Jost", sans-serif;
+    border-radius: 49px;
+    background-color: #292F36;
+    padding: 16px 32px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.w25{
+    width: 25%;
+}
+
+.w50{
+    width: 50%;
+}
+
+.w75{
+    width: 75%;
+}
+
+.w35{
+    width: 35%;
+}
+.w20{
+    width: 20%;
+}
+

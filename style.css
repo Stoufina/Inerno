@@ -28,6 +28,10 @@
     gap: 32px;
 }
 
+.gap16{
+    gap: 16px;
+}
+
 a{
     text-decoration: none;
 }
@@ -39,6 +43,14 @@ a{
 .background-section4{
     background-color: #F4F0EC;
     border-radius: 10px;
+}
+
+.background-section7{
+    background-color: #292F36;
+}
+
+.color-white{
+    color: white;
 }
 
 .text-center{
@@ -89,6 +101,11 @@ a{
     font-weight: bold;
 }
 
+.card-section4{
+    background-color: white;
+    border-radius: 16px;
+}
+
 .w25{
     width: 25%;
 }
@@ -104,7 +121,44 @@ a{
 .w35{
     width: 35%;
 }
+
+.w30{
+    width: 30%;
+}
+
 .w20{
     width: 20%;
 }
+
+.w40{
+    width: 40%;
+}
+.w100{
+    width: 100%;
+}
+
+.margin-top32{
+    margin-top: 32px;
+}
+
+.margin-top16{
+    margin-top: 16px;
+}
+
+.padding32{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.margin-section4{
+    margin: 32px;
+}
+
+.padding-card-section4{
+    padding: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+
 
